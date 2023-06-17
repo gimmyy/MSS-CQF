@@ -1,0 +1,120 @@
+[2 1 3 1 2 1 3 1 1 2 1 1 2 2 3]
+26
+MSS-SucRate 0.64
+MSS-ExecuteTime 105.86241388320923
+MSS-ResourceUtilization 0.35127814094387755
+MSS-ResourceVariance 4483282.630428305
+Naive greedy-SucRate 0.602
+Naive greedy-ExecuteTime 0.7708950042724609
+Naive greedy-ResourceUtilization 0.3129241071428571
+Naive greedy-ResourceVariance 4258776.075883279
+naive-SucRate 0.362
+naive-ExecuteTime 0.46771693229675293
+naive-ResourceUtilization 0.2925904283588435
+naive-ResourceVariance 5122670.769827984
+Repeat Too many times
+tabu-SucRate 0.602
+tabu-ExecuteTime 56.0594539642334
+tabu-ResourceUtilization 0.3129241071428571
+tabu-ResourceVariance 4258776.075883279
+PD-SucRate 0.59
+PD-ExecuteTime 71.5355761051178
+PD-ResourceUtilization 0.3111965171485261
+PD-ResourceVariance 5223716.621636057
+Improve 0.038000000000000034
+[3 1 1 1 3 2 1 1 2 2 3 3 2 3 3]
+31
+MSS-SucRate 0.658
+MSS-ExecuteTime 132.20091104507446
+MSS-ResourceUtilization 0.27934841092687074
+MSS-ResourceVariance 5640453.6545000505
+Naive greedy-SucRate 0.614
+Naive greedy-ExecuteTime 0.9711899757385254
+Naive greedy-ResourceUtilization 0.26722835352891156
+Naive greedy-ResourceVariance 5495365.876707308
+naive-SucRate 0.42
+naive-ExecuteTime 0.5385332107543945
+naive-ResourceUtilization 0.20693718289399093
+naive-ResourceVariance 4048590.1365158693
+Repeat Too many times
+tabu-SucRate 0.618
+tabu-ExecuteTime 60.210976123809814
+tabu-ResourceUtilization 0.28112790710034014
+tabu-ResourceVariance 5602156.045524088
+PD-SucRate 0.6
+PD-ExecuteTime 57.28807806968689
+PD-ResourceUtilization 0.25402096797052154
+PD-ResourceVariance 4966887.253596513
+Improve 0.04400000000000004
+[2 2 2 1 1 2 3 2 1 3 1 3 1 1 3]
+28
+MSS-SucRate 0.644
+MSS-ExecuteTime 118.37220287322998
+MSS-ResourceUtilization 0.31281359481292514
+MSS-ResourceVariance 4917012.727310965
+Naive greedy-SucRate 0.624
+Naive greedy-ExecuteTime 0.9332489967346191
+Naive greedy-ResourceUtilization 0.2847192070578231
+Naive greedy-ResourceVariance 4934884.369226989
+naive-SucRate 0.404
+naive-ExecuteTime 0.46213197708129883
+naive-ResourceUtilization 0.20748829719387754
+naive-ResourceVariance 3628828.5669746883
+Repeat Too many times
+tabu-SucRate 0.624
+tabu-ExecuteTime 57.043509006500244
+tabu-ResourceUtilization 0.2847192070578231
+tabu-ResourceVariance 4934884.369226989
+PD-SucRate 0.612
+PD-ExecuteTime 78.83833384513855
+PD-ResourceUtilization 0.2694476119614512
+PD-ResourceVariance 4968877.8265510155
+Improve 0.020000000000000018
+[3 3 2 1 2 2 3 1 3 3 3 1 3 1 1]
+32
+MSS-SucRate 0.662
+MSS-ExecuteTime 105.4015531539917
+MSS-ResourceUtilization 0.2911388676303855
+MSS-ResourceVariance 5360295.548025515
+Naive greedy-SucRate 0.638
+Naive greedy-ExecuteTime 0.8896560668945312
+Naive greedy-ResourceUtilization 0.2788006979875283
+Naive greedy-ResourceVariance 5018290.673503737
+naive-SucRate 0.396
+naive-ExecuteTime 0.45386505126953125
+naive-ResourceUtilization 0.16734722753684808
+naive-ResourceVariance 4211986.579145613
+Repeat Too many times
+tabu-SucRate 0.638
+tabu-ExecuteTime 60.44600319862366
+tabu-ResourceUtilization 0.2788006979875283
+tabu-ResourceVariance 5018290.673503737
+PD-SucRate 0.62
+PD-ExecuteTime 100.28911471366882
+PD-ResourceUtilization 0.307650958404195
+PD-ResourceVariance 5336058.408742994
+Improve 0.02400000000000002
+[1 1 1 1 3 1 2 3 3 2 3 3 2 3 3]
+32
+MSS-SucRate 0.618
+MSS-ExecuteTime 100.02595615386963
+MSS-ResourceUtilization 0.08432662804705215
+MSS-ResourceVariance 5128579.691038831
+Naive greedy-SucRate 0.592
+Naive greedy-ExecuteTime 0.840360164642334
+Naive greedy-ResourceUtilization 0.10212238697562358
+Naive greedy-ResourceVariance 5149178.9444070095
+naive-SucRate 0.42
+naive-ExecuteTime 0.4539642333984375
+naive-ResourceUtilization 0.06359945436507937
+naive-ResourceVariance 3241072.3932097526
+Repeat Too many times
+tabu-SucRate 0.592
+tabu-ExecuteTime 59.83762502670288
+tabu-ResourceUtilization 0.10212238697562358
+tabu-ResourceVariance 5149178.9444070095
+PD-SucRate 0.578
+PD-ExecuteTime 37.33085227012634
+PD-ResourceUtilization 0.06215865929705215
+PD-ResourceVariance 5140228.845899325
+Improve 0.026000000000000023
