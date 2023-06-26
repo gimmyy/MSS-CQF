@@ -1,4 +1,4 @@
-#创建流类型
+#Create Flow type
 class Flow:
    flowCount = 0
    def __init__(self, src, dst,size,period,path,deadline):
@@ -6,7 +6,7 @@ class Flow:
       self.dst = dst
       self.size = size
       self.period = period
-      self.path = path#端口路径
+      self.path = path#path
       self.deadline = deadline
       self.schedFlag=0
       self.offset=100
